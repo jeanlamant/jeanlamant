@@ -1,7 +1,11 @@
-PORTFOLIO
+## PORTFOLIO
 [www.jeanlamant.com](https://jeanlamant.com)
 
-SOCIAL
+## CONTACT
+[jean.lamant@outlook.fr](mailto:jean.lamant@outlook.fr)
+
+
+## SOCIAL
 [Instagram](https://instagram.com/jelastudio)
 [LinkedIn](https://www.linkedin.com/in/jeanlamant)
-[Behance]([https://www.linkedin.com/in/jeanlamant](https://www.behance.net/jelastudio))
+[Behance](https://www.behance.net/jelastudio)
