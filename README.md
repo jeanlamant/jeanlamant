@@ -7,5 +7,5 @@
 
 ## SOCIAL
 [Instagram](https://instagram.com/jelastudio)
-[LinkedIn](https://www.linkedin.com/in/jeanlamant)
-[Behance](https://www.behance.net/jelastudio)
+<br>[LinkedIn](https://www.linkedin.com/in/jeanlamant)
+<br>[Behance](https://www.behance.net/jelastudio)
